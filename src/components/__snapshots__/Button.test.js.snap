@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button #iconBefore 1`] = `
+<Button
+  className={null}
+  href={null}
+  icon={null}
+  iconAfter={null}
+  iconBefore="rocket"
+  theme="default"
+>
+  <button
+    className="button button-rounded  "
+    type="button"
+  >
+    <Icon
+      className="button__icon button__icon--before"
+      name="rocket"
+    >
+      <svg
+        aria-hidden="true"
+        className="icon icon--rocket button__icon button__icon--before"
+      >
+        <use
+          xlinkHref="#rocket"
+        />
+      </svg>
+    </Icon>
+    Test
+  </button>
+</Button>
+`;
