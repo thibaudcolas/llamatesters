@@ -1,6 +1,6 @@
 # Q2 React unit tests with Jest workshop
 
-This repository is the starter code for the React unit tests workshop we ran on 2019-10-16, as part of the front-end team’s [Q2 Jest tests rock](https://docs.google.com/document/d/1loTrPeS5Gj-JwT3eY4OidmsVl75-C2UGgdyPMrPwQFY/edit#)
+This repository is the starter code for the React unit tests workshop we ran on 2019-10-16, as part of the front-end team’s [Q2 Jest tests rock](https://docs.google.com/document/d/1loTrPeS5Gj-JwT3eY4OidmsVl75-C2UGgdyPMrPwQFY/edit#).
 
 ## Resources
 
