@@ -1,3 +1,49 @@
+# Q2 React unit tests with Jest workshop
+
+This repository is the starter code for the React unit tests workshop we ran on 2019-10-16, as part of the front-end team’s [Q2 Jest tests rock](https://docs.google.com/document/d/1loTrPeS5Gj-JwT3eY4OidmsVl75-C2UGgdyPMrPwQFY/edit#)
+
+## Resources
+
+**Recording of the workshop: [Q2 React tests with Jest workshop 20191016](https://drive.google.com/file/d/1ATmsLoeHXPu7DZ7ivNCNqGcB879cQwmH/view?usp=sharing)**
+
+Useful links:
+
+- [Jest documentation](https://jestjs.io)
+- [Enzyme documentation](https://airbnb.io/enzyme/)
+- [Create React App documentation](https://create-react-app.dev)
+
+## Workshop instructions
+
+Please go through the following steps to set up the workshop project locally:
+
+```sh
+git clone git@git.torchbox.com:thibaudcolas/llamatesters.git
+cd llamatesters
+nvm use
+npm install
+npm run test
+```
+
+If the project is set up correctly this last command should run the tests and report one failure:
+
+```txt
+Test Suites: 1 failed, 5 passed, 6 total
+[...]
+Ran all test suites.
+```
+
+From there, follow the recording of the workshop, going over the test suites in the following order:
+
+1. `App.test.js`, most basic React component testing
+1. `FizzBuzz.test.js`, fundamentals of React testing with Enzyme
+1. `Icon.test.js`, introduction to snapshot testing
+1. `Button.test.js`, shallow vs full rendering, further Enzyme APIs, simulating events, mocks
+1. `ShowBetween.test.js`, real-world example, mocking time
+
+---
+
+# Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
