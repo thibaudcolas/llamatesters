@@ -4,7 +4,7 @@ This repository is the starter code for the React unit tests workshop we ran on 
 
 ## Resources
 
-**Recording of the workshop: [Q2 React tests with Jest workshop 20191016](https://drive.google.com/file/d/1ATmsLoeHXPu7DZ7ivNCNqGcB879cQwmH/view?usp=sharing)**
+> 🎥 **Recording of the workshop: [Q2 React tests with Jest workshop 20191016](https://drive.google.com/file/d/1ATmsLoeHXPu7DZ7ivNCNqGcB879cQwmH/view?usp=sharing)**
 
 Useful links:
 
